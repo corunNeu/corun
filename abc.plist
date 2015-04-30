@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.coolrun.cn/download/DeyesV1.8.6Alpha.ipa</string>
+					<string>http://www.coolrun.cn/download/DEyesV1.8.8Beta.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.neusoftHD.DeyesIH</string>
 				<key>bundle-version</key>
-				<string>1.8.6</string>
+				<string>1.8.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>DeyesV1.8.6Alpha</string>
+				<string>DEyesV1.8.8Beta.ipa</string>
 			</dict>
 		</dict>
 	</array>
