@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.coolrun.cn/download/1.9.0Beta.ipa</string>
+					<string>http://www.coolrun.cn/download/1.9.2Alpha.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.neusoftHD.Deyes</string>
 				<key>bundle-version</key>
-				<string>1.9.0</string>
+				<string>1.9.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>1.9.0Beta</string>
+				<string>1.9.2Alpha</string>
 			</dict>
 		</dict>
 	</array>
