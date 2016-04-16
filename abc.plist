@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.neusoft.microrun</string>
+				<string>com.neusoftIH.microrun</string>
 				<key>bundle-version</key>
 				<string>2.1.2</string>
 				<key>kind</key>
