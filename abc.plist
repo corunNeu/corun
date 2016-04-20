@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.coolrun.cn/download/2.1.2Alpha.ipa</string>
+					<string>http://www.coolrun.cn/download/2.1.2Beta.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>2.1.2Alpha</string>
+				<string>2.1.2Beta</string>
 			</dict>
 		</dict>
 	</array>
