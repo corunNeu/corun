@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.coolrun.cn/download/2.1.8Beta.ipa</string>
+					<string>http://www.coolrun.cn/download/1.9.6Beta.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.neusoft.microrun</string>
+				<string>com.neusoftHD.Deyes</string>
 				<key>bundle-version</key>
-				<string>2.1.8</string>
+				<string>1.9.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>2.1.8Beta</string>
+				<string>1.9.6Beta</string>
 			</dict>
 		</dict>
 	</array>
